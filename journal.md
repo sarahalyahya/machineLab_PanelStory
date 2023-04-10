@@ -23,3 +23,6 @@ Finally, Alpha stayed overtime because he was feeling crafty today and finished 
 
 
 ![336808221_759785405786611_1392804367078966606_n](https://user-images.githubusercontent.com/57350290/229631416-903b87c2-ff24-44f5-9aa6-7539708862cf.jpeg)
+## Monday April 10th 
+
+#### Tasklist 
