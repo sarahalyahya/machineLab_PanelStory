@@ -31,6 +31,26 @@ We spent the first portion of class time brainstorming detailed task list items 
 We also spend some time creating a 3D model of our imagined final structure to make sure all teammates have the same vision to work towards. Here's a screenshot of the model: <img width="440" alt="Screen Shot 2023-04-10 at 4 21 27 PM" src="https://user-images.githubusercontent.com/57350290/230901297-a33f8dab-0768-4878-b0a5-bd7c5936060a.png">
 ![IMG_FAC235DD93FA-1](https://user-images.githubusercontent.com/57350290/230901310-b4a38816-b072-4beb-b33b-6c67ac822137.jpeg)
 
+
+
 and here's the [link to access it](https://app.spline.design/file/e9d0c4f7-f423-4c46-bebc-ffe01858ef3c?fbclid=IwAR3V4JehDHfH6fFPY-zTwFtZERkoel8Ur0dSOvBmzTQ726dQzRypHe45S8A)
 
 
+#### Cutting Wood Panels
+Then, we chop saw-ed some of the wooden panels that the professor prepared for us into 38cm panels. 
+![IMG_5137](https://user-images.githubusercontent.com/57350290/230916592-1ab7ef33-47e5-495e-85ba-9fc03b1333a8.jpg)
+
+
+
+#### Drilling Metal Hubs! 
+After delibrating how to connect our stepper motors to the panels. The prof recommended we just directly connect the pieces as we have enough stepper motors to go around. We thought about how we would attach our proximity sensors and it seemed like it would be feasible. So we went ahead and drilled in 5mm metal hubs into our wooden panels. 
+![IMG_5138](https://user-images.githubusercontent.com/57350290/230916676-2fe29cf0-c1fa-40bd-9b02-d3edb860dce6.jpg)
+
+#### Testing for dimensions
+Finally, we tested our panels with taped stepper motors to make sure that they would have sufficient room to rotate fully ![IMG_5021](https://user-images.githubusercontent.com/57350290/230917293-f13573b5-8854-42aa-98a3-85937ed34eb7.jpg)
+
+Here are a few timelapses of our work session today:
+[link 1](https://www.youtube.com/watch?v=a4KeE1cW67g)
+[link 2](https://www.youtube.com/watch?v=plgAeUpIFU4)
+[link 3](https://www.youtube.com/watch?v=YvxKbNy9XAE)
+[link 4](https://www.youtube.com/watch?v=VFeSqbmh0u0)
