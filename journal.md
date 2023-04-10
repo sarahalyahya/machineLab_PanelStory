@@ -28,4 +28,9 @@ Finally, Alpha stayed overtime because he was feeling crafty today and finished 
 #### Tasklist 
 We spent the first portion of class time brainstorming detailed task list items and posing tentative timings for when we should complete them. You can find more information about that [here](https://github.com/sarahalyahya/machineLab_PanelStory/blob/main/tasklist%26schedule.md). But overall, we divided our workflow into different categories and gave each category around a week for us to complete as we have 4 weeks left until the deadline
 #### 3D Model
-We also spend some time creating a 3D model of our imagined final structure to make sure all teammates have the same vision to work towards. Here's a screenshot of the model: 
+We also spend some time creating a 3D model of our imagined final structure to make sure all teammates have the same vision to work towards. Here's a screenshot of the model: <img width="440" alt="Screen Shot 2023-04-10 at 4 21 27 PM" src="https://user-images.githubusercontent.com/57350290/230901297-a33f8dab-0768-4878-b0a5-bd7c5936060a.png">
+![IMG_FAC235DD93FA-1](https://user-images.githubusercontent.com/57350290/230901310-b4a38816-b072-4beb-b33b-6c67ac822137.jpeg)
+
+and here's the [link to access it](https://app.spline.design/file/e9d0c4f7-f423-4c46-bebc-ffe01858ef3c?fbclid=IwAR3V4JehDHfH6fFPY-zTwFtZERkoel8Ur0dSOvBmzTQ726dQzRypHe45S8A)
+
+
