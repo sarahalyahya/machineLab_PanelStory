@@ -26,3 +26,6 @@ Finally, Alpha stayed overtime because he was feeling crafty today and finished 
 ## Monday April 10th 
 
 #### Tasklist 
+We spent the first portion of class time brainstorming detailed task list items and posing tentative timings for when we should complete them. You can find more information about that [here](https://github.com/sarahalyahya/machineLab_PanelStory/blob/main/tasklist%26schedule.md). But overall, we divided our workflow into different categories and gave each category around a week for us to complete as we have 4 weeks left until the deadline
+#### 3D Model
+We also spend some time creating a 3D model of our imagined final structure to make sure all teammates have the same vision to work towards. Here's a screenshot of the model: 
