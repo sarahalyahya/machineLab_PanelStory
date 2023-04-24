@@ -54,3 +54,39 @@ Here are a few timelapses of our work session today:
 [link 2](https://www.youtube.com/watch?v=plgAeUpIFU4)
 [link 3](https://www.youtube.com/watch?v=YvxKbNy9XAE)
 [link 4](https://www.youtube.com/watch?v=VFeSqbmh0u0)
+
+## April 24th Update 
+After a week of intense capstone-ing, we used this weekend to catch up and make some significant progress! 
+
+### Some Planning & Drilling
+We continued to drill some metal hubs onto the other sides of our wooden panels, preparing them completely for usage. 
+[Timelapse](https://youtu.be/_BzbSOS4hfk)
+
+### Re-thinking our frame
+After finalizing our wooden panels, we went back to the frame we put together earlier, to take some more accurate measurements, and make changes on the frame according to our panels. We disassembled the frame after taking measurements, and put it back together based on the new information we now have, making it more fitting and more solid. 
+[Timelapse](https://youtu.be/euhou-rmQvU)
+
+![frame](https://user-images.githubusercontent.com/57350290/233958663-b43447af-ac17-4229-aaa3-61e1ec070540.jpg)
+
+
+
+### How will we create rotational movement from both sides? 
+After fixing our frame, we started looking for parts that will enable us to maintain the rotational movement created by the stepper motor. We realized that using the metal hubs that take in rod but allow rotation would be the ideal option in this case, so we grabbed a few and started planning how to install them on our frame. 
+
+![rotational](https://user-images.githubusercontent.com/57350290/233958820-7b7d1624-786d-456f-a50d-bd0519a7af8e.jpg)
+![measurements](https://user-images.githubusercontent.com/57350290/233958852-e8ad678a-9e58-4d84-abbc-f0890bfa6705.jpg)
+
+Afterward, we found the correct corresponding screws and installed them into our frame, and then started trying out different rods and brainstorming ways to make them fit into both the wooden panel. This is something we need a bit more guidance with. 
+
+### What designs will we install on the panels?
+One of the main questions we had in this process, was what designs we will install on the panel to make something beautiful that matches our theme? So we did some sketching and came up with a division of themes and combinations of different drawings that we will display on the panel. We decided that our 4 view categories will be (NYUAD, Desert, the Corniche, and a Seaview), and the divisions of our panels will be sky (panels 1-2), architecture (3-5), and then a ground / pedestrian panel. 
+![Untitled_Artwork](![sketches](https://user-images.githubusercontent.com/57350290/233960953-280d09e7-f52e-4037-90cb-aee9a23eff6c.jpg)
+![sketches](https://user-images.githubusercontent.com/57350290/233961145-d6cc3cec-6ad3-4f3a-a090-ac1703cd168b.jpg)
+![corniche](https://user-images.githubusercontent.com/57350290/233961186-55bed5d3-f597-4db0-9af5-350d6d94bd5f.jpg)
+![Untitled_Artwork 2](https://user-images.githubusercontent.com/57350290/233961237-06745165-72df-40ed-8da2-c85b0d2e97f4.jpg)
+
+
+
+
+
+
