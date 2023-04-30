@@ -87,6 +87,40 @@ One of the main questions we had in this process, was what designs we will insta
 
 
 
+## Thursday April 27th Update
+### Scrapping the frame!
+After realizing our frame is too crooked to be stable, and thinking of ways to connect the motor/panel/rods combination together. We realized that having two panels on either side of our cube, one aluminum for the motors, and one wooden for the other end of the metal rod would be stable and sufficient. 
+
+
+### Mounting Motors
+After that, we started experimenting with installing the stepper motors, especially after getting guidance from the professor regarding using an aluminum panel and mounting stepper motors. So, we mounted a couple of motors, and worked around the long metal rods to test the rotational movement 
+
+ ![340297426_1279837672889799_9188771128938448518_n](https://user-images.githubusercontent.com/57350290/235360893-d2e4d062-cee6-4633-a7dd-d82a02e0db90.jpg)
+
+ ![340392090_230793426240371_4222511607543322215_n](https://user-images.githubusercontent.com/57350290/235360943-71d71e49-f543-4ec4-8c4a-d4920eda0d7a.jpg)
+
+## Saturday April 29th Update 
+ ### Cutting and installing metal rods
+ 
+![340466155_1392148428210441_5313071037017674667_n](https://user-images.githubusercontent.com/57350290/235361050-b46c7cc1-2f5e-46ff-a527-b184c7e5f53b.jpg)
+
+We measured the length needed for the metal rods in order to have our wooden panels centered in our cube, and got assistance from the professor in cutting and installing them on the panel. 
+
+### Mounting the other side of the frame
+We then mounted the wooden panel opposite to the motors, and added the rotating metal hubs on it with all the ready wooden panels. The rest of the wooden panels are yet to be added when the rest of the metal rods are cut. 
+![343776144_242308488330330_5793310255412685537_n](https://user-images.githubusercontent.com/57350290/235361191-9194d3d6-edd2-4b8f-ba84-a29bc68f4270.jpg)
+
+### Testing Stepper Motor Rotation
+After that, we wanted to test the actual mechanism, and see if the panels will rotate successfully. 
+Check out [this video](https://youtube.com/shorts/0FxYwWliF1A) to see what that looked like! 
+
+### Connecting our Motors to H-Bridge and Power Supply
+![340571142_1353862418677627_8924488667739704493_n](https://user-images.githubusercontent.com/57350290/235361568-3990e683-9260-411e-9946-38b33c16de05.jpg)
+After that, we started on the electronics -- connecting our motors to the h-bridge and power supply. We are still a bit confused on how to use one power supply for all of our motors, and are waiting to seek advice on that. but generally, we started with connecting a couple of our motors and soldering the wires longer. 
+
+### What's left?
+Installing two more panels (waiting for connectors), connecting the rest of our motors, and testing our designs in order to synchronize the rotations. 
+
 
 
 
