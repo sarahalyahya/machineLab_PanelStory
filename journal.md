@@ -121,6 +121,25 @@ After that, we started on the electronics -- connecting our motors to the h-brid
 ### What's left?
 Installing two more panels (waiting for connectors), connecting the rest of our motors, and testing our designs in order to synchronize the rotations. 
 
+## May 1st Update
+### Shaft Couplers 
+We spent some time making our own 5-8mm shaft couplers since we ran out! 
 
+![IMG_5691](https://user-images.githubusercontent.com/57350290/236684889-42831280-ed32-4bf4-9891-4aace9b4cf17.PNG)
 
+### Aligning and tightening metal rods
+We also finished mounting aligning our metal rods preparing for the mounting of the sensors
 
+### Soldering
+Finally, we started soldering our Arduino!
+
+## Weekend of May 5th Update
+
+### Finalizing wire connections, soldering wires, wire hiding slider mechanism
+We finalized all wire connnections, soldered wires longer and created a small compartment for the wires.
+![344158127_231443596169987_325907701523458019_n](https://user-images.githubusercontent.com/57350290/236685019-d16dab69-aba0-40da-8497-2ac4566bc721.jpg)
+
+### Mounting Sensors and starting to put together the code
+We mounted all of our sensors and starting figuring out the code to get the machine running! 
+![344217801_811310990285667_7573116788028421516_n](https://user-images.githubusercontent.com/57350290/236685048-1d6bd5c4-2c43-4b84-b6f2-034056f7f0b8.jpg)
+ 
