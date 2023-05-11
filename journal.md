@@ -143,3 +143,14 @@ We finalized all wire connnections, soldered wires longer and created a small co
 We mounted all of our sensors and starting figuring out the code to get the machine running! 
 ![344217801_811310990285667_7573116788028421516_n](https://user-images.githubusercontent.com/57350290/236685048-1d6bd5c4-2c43-4b84-b6f2-034056f7f0b8.jpg)
  
+ ## May 7th 
+ testing sensors, fixing sensor code 
+ 
+ ## May 8th 
+ building frame starting to solder all sensor wires
+ 
+ ## May 9th
+ soldering arduino, soldering sensor wires, soldering power source
+ 
+ ## May 10th
+ soldering everything remaining, connecting to power source, and figuring out the code, implementing new idea 
